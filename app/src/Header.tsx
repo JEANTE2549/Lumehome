@@ -2,12 +2,7 @@ function Header(){
 
     return(
         <header>
-            <h1> My header</h1>
-            <nav>
-                <b>
-                    Hi
-                </b>
-            </nav>
+            <h1> LUMEHOME</h1>
             <hr></hr>
         </header>
     );
